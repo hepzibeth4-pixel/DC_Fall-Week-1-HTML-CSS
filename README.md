@@ -6,7 +6,7 @@ No installs required. We’ll use Tailwind via CDN and GitHub’s web editor.
 
 ---
 
-## 📦 What’s inside
+## 📦 What’s inside.     
 - `index.html` — starter profile card (Tailwind CDN already linked)
 - `assets/` — images you can use (optional placeholder included)
 - `docs/screenshots/` — put your how-to screenshots here (placeholders referenced below)
